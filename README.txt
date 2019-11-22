@@ -1,13 +1,9 @@
 
 TITLE: 
-Slant - Responsive Free HTML5 template
+8bits
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
-http://twitter.com/fh5co
-http://facebook.com/fh5co
-
+DESIGNED & DEVELOPED by 8bits
 
 CREDITS:
 
